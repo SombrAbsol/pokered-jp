@@ -1,7 +1,7 @@
 _OakSpeechText1::
-	text "Hello there!"
-	line "Welcome to the"
-	cont "world of #MON!"
+	text "はじめまして!"
+	line "ポケット モンスターの せかいへ"
+	cont "ようこそ!"
 
 	para "My name is OAK!"
 	line "People call me"
